@@ -1343,10 +1343,7 @@
           "Wangkanai.Detection": "8.13.0"
         },
         "runtime": {
-          "Raika.Common.SharedApplicationServices.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Raika.Common.SharedApplicationServices.dll": {}
         },
         "resources": {
           "en/Raika.Common.SharedApplicationServices.resources.dll": {
@@ -1362,10 +1359,7 @@
           "RestSharp": "112.0.0"
         },
         "runtime": {
-          "Raika.Common.SharedInfrastructure.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Raika.Common.SharedInfrastructure.dll": {}
         }
       },
       "Raika.Common.SharedKernel/1.0.0": {
@@ -1374,10 +1368,7 @@
           "MediatR": "12.4.1"
         },
         "runtime": {
-          "Raika.Common.SharedKernel.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Raika.Common.SharedKernel.dll": {}
         }
       },
       "Raika.HomeAlarmPanel.Application/1.0.0": {
@@ -1386,10 +1377,7 @@
           "Raika.HomeAlarmPanel.Domain": "1.0.0"
         },
         "runtime": {
-          "Raika.HomeAlarmPanel.Application.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Raika.HomeAlarmPanel.Application.dll": {}
         },
         "resources": {
           "en/Raika.HomeAlarmPanel.Application.resources.dll": {
@@ -1405,10 +1393,7 @@
           "Raika.Common.SharedKernel": "1.0.0"
         },
         "runtime": {
-          "Raika.HomeAlarmPanel.Domain.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Raika.HomeAlarmPanel.Domain.dll": {}
         }
       }
     }

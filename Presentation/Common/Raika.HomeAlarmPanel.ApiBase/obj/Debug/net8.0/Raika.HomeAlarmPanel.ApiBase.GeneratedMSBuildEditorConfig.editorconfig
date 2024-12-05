@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Raika.HomeAlarmPanel.ApiBase
-build_property.ProjectDir = C:\Project\Raika\HomeAlarm\Presentation\Common\Raika.HomeAlarmPanel.ApiBase\
+build_property.ProjectDir = D:\Basir\HomeAlarm\Presentation\Common\Raika.HomeAlarmPanel.ApiBase\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

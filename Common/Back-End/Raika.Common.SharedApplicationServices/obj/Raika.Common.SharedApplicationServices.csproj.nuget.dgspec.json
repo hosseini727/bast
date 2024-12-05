@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedApplicationServices\\Raika.Common.SharedApplicationServices.csproj": {}
+    "D:\\Basir\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedApplicationServices\\Raika.Common.SharedApplicationServices.csproj": {}
   },
   "projects": {
-    "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedApplicationServices\\Raika.Common.SharedApplicationServices.csproj": {
+    "D:\\Basir\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedApplicationServices\\Raika.Common.SharedApplicationServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedApplicationServices\\Raika.Common.SharedApplicationServices.csproj",
+        "projectUniqueName": "D:\\Basir\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedApplicationServices\\Raika.Common.SharedApplicationServices.csproj",
         "projectName": "Raika.Common.SharedApplicationServices",
-        "projectPath": "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedApplicationServices\\Raika.Common.SharedApplicationServices.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedApplicationServices\\obj\\",
+        "projectPath": "D:\\Basir\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedApplicationServices\\Raika.Common.SharedApplicationServices.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "D:\\Basir\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedApplicationServices\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +31,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedKernel\\Raika.Common.SharedKernel.csproj": {
-                "projectPath": "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedKernel\\Raika.Common.SharedKernel.csproj"
+              "D:\\Basir\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedKernel\\Raika.Common.SharedKernel.csproj": {
+                "projectPath": "D:\\Basir\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedKernel\\Raika.Common.SharedKernel.csproj"
               }
             }
           }
@@ -38,11 +41,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -94,21 +92,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedKernel\\Raika.Common.SharedKernel.csproj": {
+    "D:\\Basir\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedKernel\\Raika.Common.SharedKernel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedKernel\\Raika.Common.SharedKernel.csproj",
+        "projectUniqueName": "D:\\Basir\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedKernel\\Raika.Common.SharedKernel.csproj",
         "projectName": "Raika.Common.SharedKernel",
-        "projectPath": "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedKernel\\Raika.Common.SharedKernel.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedKernel\\obj\\",
+        "projectPath": "D:\\Basir\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedKernel\\Raika.Common.SharedKernel.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "D:\\Basir\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedKernel\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -128,11 +129,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -164,7 +160,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

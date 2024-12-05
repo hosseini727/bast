@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Z7lWLWTl1qM=",
+  "dgSpecHash": "GdNRVRI8/oPlXuiESYQSwBzsT+pAM3aK2hrKck5ahcI1dSoeyA048Z07YBPAcfWXP5wNp/6ecMaUxKsoTo3HuQ==",
   "success": true,
-  "projectFilePath": "C:\\Project\\Raika\\HomeAlarm\\Core\\Raika.HomeAlarmPanel.Domain\\Raika.HomeAlarmPanel.Domain.csproj",
+  "projectFilePath": "D:\\Basir\\HomeAlarm\\Core\\Raika.HomeAlarmPanel.Domain\\Raika.HomeAlarmPanel.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\pc\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
-    "C:\\Users\\pc\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
-    "C:\\Users\\pc\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "C:\\Users\\ASUS\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

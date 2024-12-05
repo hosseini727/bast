@@ -10,3 +10,16 @@ C:\Project\Raika\HomeAlarm\Common\back-end\Raika.Common.SharedInfrastructure\obj
 C:\Project\Raika\HomeAlarm\Common\back-end\Raika.Common.SharedInfrastructure\obj\Debug\net8.0\refint\Raika.Common.SharedInfrastructure.dll
 C:\Project\Raika\HomeAlarm\Common\back-end\Raika.Common.SharedInfrastructure\obj\Debug\net8.0\Raika.Common.SharedInfrastructure.pdb
 C:\Project\Raika\HomeAlarm\Common\back-end\Raika.Common.SharedInfrastructure\obj\Debug\net8.0\ref\Raika.Common.SharedInfrastructure.dll
+D:\Basir\HomeAlarm\Common\back-end\Raika.Common.SharedInfrastructure\bin\Debug\net8.0\Raika.Common.SharedInfrastructure.deps.json
+D:\Basir\HomeAlarm\Common\back-end\Raika.Common.SharedInfrastructure\bin\Debug\net8.0\Raika.Common.SharedInfrastructure.dll
+D:\Basir\HomeAlarm\Common\back-end\Raika.Common.SharedInfrastructure\bin\Debug\net8.0\Raika.Common.SharedInfrastructure.pdb
+D:\Basir\HomeAlarm\Common\back-end\Raika.Common.SharedInfrastructure\obj\Debug\net8.0\Raika.Common.SharedInfrastructure.csproj.AssemblyReference.cache
+D:\Basir\HomeAlarm\Common\back-end\Raika.Common.SharedInfrastructure\obj\Debug\net8.0\Raika.Common.SharedInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basir\HomeAlarm\Common\back-end\Raika.Common.SharedInfrastructure\obj\Debug\net8.0\Raika.Common.SharedInfrastructure.AssemblyInfoInputs.cache
+D:\Basir\HomeAlarm\Common\back-end\Raika.Common.SharedInfrastructure\obj\Debug\net8.0\Raika.Common.SharedInfrastructure.AssemblyInfo.cs
+D:\Basir\HomeAlarm\Common\back-end\Raika.Common.SharedInfrastructure\obj\Debug\net8.0\Raika.Common.SharedInfrastructure.csproj.CoreCompileInputs.cache
+D:\Basir\HomeAlarm\Common\back-end\Raika.Common.SharedInfrastructure\obj\Debug\net8.0\Raika.Common.SharedInfrastructure.sourcelink.json
+D:\Basir\HomeAlarm\Common\back-end\Raika.Common.SharedInfrastructure\obj\Debug\net8.0\Raika.Common.SharedInfrastructure.dll
+D:\Basir\HomeAlarm\Common\back-end\Raika.Common.SharedInfrastructure\obj\Debug\net8.0\refint\Raika.Common.SharedInfrastructure.dll
+D:\Basir\HomeAlarm\Common\back-end\Raika.Common.SharedInfrastructure\obj\Debug\net8.0\Raika.Common.SharedInfrastructure.pdb
+D:\Basir\HomeAlarm\Common\back-end\Raika.Common.SharedInfrastructure\obj\Debug\net8.0\ref\Raika.Common.SharedInfrastructure.dll
