@@ -1,0 +1,539 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Project\\Raika\\HomeAlarm\\Presentation\\Common\\Raika.HomeAlarmPanel.ApiBase\\Raika.HomeAlarmPanel.ApiBase.csproj": {}
+  },
+  "projects": {
+    "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedApplicationServices\\Raika.Common.SharedApplicationServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedApplicationServices\\Raika.Common.SharedApplicationServices.csproj",
+        "projectName": "Raika.Common.SharedApplicationServices",
+        "projectPath": "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedApplicationServices\\Raika.Common.SharedApplicationServices.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedApplicationServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedKernel\\Raika.Common.SharedKernel.csproj": {
+                "projectPath": "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedKernel\\Raika.Common.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Serilog.Sinks.MSSqlServer": {
+              "target": "Package",
+              "version": "[6.6.0, )"
+            },
+            "Wangkanai.Detection": {
+              "target": "Package",
+              "version": "[8.13.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedInfrastructure\\Raika.Common.SharedInfrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedInfrastructure\\Raika.Common.SharedInfrastructure.csproj",
+        "projectName": "Raika.Common.SharedInfrastructure",
+        "projectPath": "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedInfrastructure\\Raika.Common.SharedInfrastructure.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedInfrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "RestSharp": {
+              "target": "Package",
+              "version": "[112.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedKernel\\Raika.Common.SharedKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedKernel\\Raika.Common.SharedKernel.csproj",
+        "projectName": "Raika.Common.SharedKernel",
+        "projectPath": "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedKernel\\Raika.Common.SharedKernel.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedKernel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Project\\Raika\\HomeAlarm\\Core\\Raika.HomeAlarmPanel.Application\\Raika.HomeAlarmPanel.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project\\Raika\\HomeAlarm\\Core\\Raika.HomeAlarmPanel.Application\\Raika.HomeAlarmPanel.Application.csproj",
+        "projectName": "Raika.HomeAlarmPanel.Application",
+        "projectPath": "C:\\Project\\Raika\\HomeAlarm\\Core\\Raika.HomeAlarmPanel.Application\\Raika.HomeAlarmPanel.Application.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Raika\\HomeAlarm\\Core\\Raika.HomeAlarmPanel.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedApplicationServices\\Raika.Common.SharedApplicationServices.csproj": {
+                "projectPath": "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedApplicationServices\\Raika.Common.SharedApplicationServices.csproj"
+              },
+              "C:\\Project\\Raika\\HomeAlarm\\Core\\Raika.HomeAlarmPanel.Domain\\Raika.HomeAlarmPanel.Domain.csproj": {
+                "projectPath": "C:\\Project\\Raika\\HomeAlarm\\Core\\Raika.HomeAlarmPanel.Domain\\Raika.HomeAlarmPanel.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Project\\Raika\\HomeAlarm\\Core\\Raika.HomeAlarmPanel.Domain\\Raika.HomeAlarmPanel.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project\\Raika\\HomeAlarm\\Core\\Raika.HomeAlarmPanel.Domain\\Raika.HomeAlarmPanel.Domain.csproj",
+        "projectName": "Raika.HomeAlarmPanel.Domain",
+        "projectPath": "C:\\Project\\Raika\\HomeAlarm\\Core\\Raika.HomeAlarmPanel.Domain\\Raika.HomeAlarmPanel.Domain.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Raika\\HomeAlarm\\Core\\Raika.HomeAlarmPanel.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedKernel\\Raika.Common.SharedKernel.csproj": {
+                "projectPath": "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedKernel\\Raika.Common.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Project\\Raika\\HomeAlarm\\Infrastructure\\Raika.HomeAlarmPanel.Infrastructure\\Raika.HomeAlarmPanel.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project\\Raika\\HomeAlarm\\Infrastructure\\Raika.HomeAlarmPanel.Infrastructure\\Raika.HomeAlarmPanel.Infrastructure.csproj",
+        "projectName": "Raika.HomeAlarmPanel.Infrastructure",
+        "projectPath": "C:\\Project\\Raika\\HomeAlarm\\Infrastructure\\Raika.HomeAlarmPanel.Infrastructure\\Raika.HomeAlarmPanel.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Raika\\HomeAlarm\\Infrastructure\\Raika.HomeAlarmPanel.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedApplicationServices\\Raika.Common.SharedApplicationServices.csproj": {
+                "projectPath": "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedApplicationServices\\Raika.Common.SharedApplicationServices.csproj"
+              },
+              "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedInfrastructure\\Raika.Common.SharedInfrastructure.csproj": {
+                "projectPath": "C:\\Project\\Raika\\HomeAlarm\\Common\\back-end\\Raika.Common.SharedInfrastructure\\Raika.Common.SharedInfrastructure.csproj"
+              },
+              "C:\\Project\\Raika\\HomeAlarm\\Core\\Raika.HomeAlarmPanel.Application\\Raika.HomeAlarmPanel.Application.csproj": {
+                "projectPath": "C:\\Project\\Raika\\HomeAlarm\\Core\\Raika.HomeAlarmPanel.Application\\Raika.HomeAlarmPanel.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Project\\Raika\\HomeAlarm\\Presentation\\Common\\Raika.HomeAlarmPanel.ApiBase\\Raika.HomeAlarmPanel.ApiBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project\\Raika\\HomeAlarm\\Presentation\\Common\\Raika.HomeAlarmPanel.ApiBase\\Raika.HomeAlarmPanel.ApiBase.csproj",
+        "projectName": "Raika.HomeAlarmPanel.ApiBase",
+        "projectPath": "C:\\Project\\Raika\\HomeAlarm\\Presentation\\Common\\Raika.HomeAlarmPanel.ApiBase\\Raika.HomeAlarmPanel.ApiBase.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Raika\\HomeAlarm\\Presentation\\Common\\Raika.HomeAlarmPanel.ApiBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Project\\Raika\\HomeAlarm\\Infrastructure\\Raika.HomeAlarmPanel.Infrastructure\\Raika.HomeAlarmPanel.Infrastructure.csproj": {
+                "projectPath": "C:\\Project\\Raika\\HomeAlarm\\Infrastructure\\Raika.HomeAlarmPanel.Infrastructure\\Raika.HomeAlarmPanel.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Hangfire.AspNetCore": {
+              "target": "Package",
+              "version": "[1.8.16, )"
+            },
+            "Hangfire.SqlServer": {
+              "target": "Package",
+              "version": "[1.8.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

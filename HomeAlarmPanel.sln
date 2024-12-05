@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{36AB2D3E-509D-43F6-95F4-E3A61B4754BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Raika.Common.SharedApplicationServices", "Common\back-end\Raika.Common.SharedApplicationServices\Raika.Common.SharedApplicationServices.csproj", "{16EED8F3-4980-4A94-904F-12717B0D1558}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Raika.Common.SharedInfrastructure", "Common\back-end\Raika.Common.SharedInfrastructure\Raika.Common.SharedInfrastructure.csproj", "{48105859-47D1-4BDA-8198-A4491D65C99F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Raika.Common.SharedKernel", "Common\back-end\Raika.Common.SharedKernel\Raika.Common.SharedKernel.csproj", "{D4A3E7BC-D4BA-4ED6-9D7D-1B301AC0A9C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{880523DA-1560-4622-B1F5-831308FFF28A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{724D2BEE-BB88-42E2-BDD3-604E11E5A52D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{4755C18A-D2A4-498C-9BC9-7B3766E5EECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raika.HomeAlarmPanel.Domain", "Core\Raika.HomeAlarmPanel.Domain\Raika.HomeAlarmPanel.Domain.csproj", "{73FF9B08-1955-470A-8EFF-F76159E24266}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raika.HomeAlarmPanel.Application", "Core\Raika.HomeAlarmPanel.Application\Raika.HomeAlarmPanel.Application.csproj", "{615884C2-5077-49F0-9ADD-1D6C5CB87FE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raika.HomeAlarmPanel.ApiBase", "Presentation\Common\Raika.HomeAlarmPanel.ApiBase\Raika.HomeAlarmPanel.ApiBase.csproj", "{6D410369-B33C-462F-8F5E-713EA8DA66D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{9AC772B1-7C2A-4D1C-9817-2060E03C1AF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raika.HomeAlarmPanel.Firewall.Api", "Presentation\Raika.HomeAlarmPanel.Firewall.Api\Raika.HomeAlarmPanel.Firewall.Api.csproj", "{AAD5A7CB-90FB-4753-AE1F-4A80DEEDBDB3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Raika.HomeAlarmPanel.Infrastructure", "Infrastructure\Raika.HomeAlarmPanel.Infrastructure\Raika.HomeAlarmPanel.Infrastructure.csproj", "{C2496346-E67E-4A2E-B142-856A6B1E1456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16EED8F3-4980-4A94-904F-12717B0D1558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16EED8F3-4980-4A94-904F-12717B0D1558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16EED8F3-4980-4A94-904F-12717B0D1558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16EED8F3-4980-4A94-904F-12717B0D1558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48105859-47D1-4BDA-8198-A4491D65C99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48105859-47D1-4BDA-8198-A4491D65C99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48105859-47D1-4BDA-8198-A4491D65C99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48105859-47D1-4BDA-8198-A4491D65C99F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4A3E7BC-D4BA-4ED6-9D7D-1B301AC0A9C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A3E7BC-D4BA-4ED6-9D7D-1B301AC0A9C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A3E7BC-D4BA-4ED6-9D7D-1B301AC0A9C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A3E7BC-D4BA-4ED6-9D7D-1B301AC0A9C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73FF9B08-1955-470A-8EFF-F76159E24266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73FF9B08-1955-470A-8EFF-F76159E24266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73FF9B08-1955-470A-8EFF-F76159E24266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73FF9B08-1955-470A-8EFF-F76159E24266}.Release|Any CPU.Build.0 = Release|Any CPU
+		{615884C2-5077-49F0-9ADD-1D6C5CB87FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{615884C2-5077-49F0-9ADD-1D6C5CB87FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{615884C2-5077-49F0-9ADD-1D6C5CB87FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{615884C2-5077-49F0-9ADD-1D6C5CB87FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D410369-B33C-462F-8F5E-713EA8DA66D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D410369-B33C-462F-8F5E-713EA8DA66D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D410369-B33C-462F-8F5E-713EA8DA66D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D410369-B33C-462F-8F5E-713EA8DA66D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD5A7CB-90FB-4753-AE1F-4A80DEEDBDB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD5A7CB-90FB-4753-AE1F-4A80DEEDBDB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD5A7CB-90FB-4753-AE1F-4A80DEEDBDB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD5A7CB-90FB-4753-AE1F-4A80DEEDBDB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2496346-E67E-4A2E-B142-856A6B1E1456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2496346-E67E-4A2E-B142-856A6B1E1456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2496346-E67E-4A2E-B142-856A6B1E1456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2496346-E67E-4A2E-B142-856A6B1E1456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{16EED8F3-4980-4A94-904F-12717B0D1558} = {36AB2D3E-509D-43F6-95F4-E3A61B4754BA}
+		{48105859-47D1-4BDA-8198-A4491D65C99F} = {36AB2D3E-509D-43F6-95F4-E3A61B4754BA}
+		{D4A3E7BC-D4BA-4ED6-9D7D-1B301AC0A9C0} = {36AB2D3E-509D-43F6-95F4-E3A61B4754BA}
+		{73FF9B08-1955-470A-8EFF-F76159E24266} = {4755C18A-D2A4-498C-9BC9-7B3766E5EECB}
+		{615884C2-5077-49F0-9ADD-1D6C5CB87FE1} = {4755C18A-D2A4-498C-9BC9-7B3766E5EECB}
+		{6D410369-B33C-462F-8F5E-713EA8DA66D7} = {9AC772B1-7C2A-4D1C-9817-2060E03C1AF0}
+		{9AC772B1-7C2A-4D1C-9817-2060E03C1AF0} = {880523DA-1560-4622-B1F5-831308FFF28A}
+		{AAD5A7CB-90FB-4753-AE1F-4A80DEEDBDB3} = {880523DA-1560-4622-B1F5-831308FFF28A}
+		{C2496346-E67E-4A2E-B142-856A6B1E1456} = {724D2BEE-BB88-42E2-BDD3-604E11E5A52D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62A67AF8-5B9C-4D39-8C6F-066AEC0DCB16}
+	EndGlobalSection
+EndGlobal

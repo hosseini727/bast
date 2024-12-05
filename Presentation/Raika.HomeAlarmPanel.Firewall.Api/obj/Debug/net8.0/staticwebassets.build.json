@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ue2lXDV94YZm7Cno5C6kSdNmp7QFSUt6zRjp6CGATCs=",
+  "Source": "Raika.HomeAlarmPanel.Firewall.Api",
+  "BasePath": "_content/Raika.HomeAlarmPanel.Firewall.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

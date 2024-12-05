@@ -1,0 +1,12 @@
+C:\Project\Raika\HomeAlarm\Common\back-end\Raika.Common.SharedKernel\bin\Debug\net8.0\Raika.Common.SharedKernel.deps.json
+C:\Project\Raika\HomeAlarm\Common\back-end\Raika.Common.SharedKernel\bin\Debug\net8.0\Raika.Common.SharedKernel.dll
+C:\Project\Raika\HomeAlarm\Common\back-end\Raika.Common.SharedKernel\bin\Debug\net8.0\Raika.Common.SharedKernel.pdb
+C:\Project\Raika\HomeAlarm\Common\back-end\Raika.Common.SharedKernel\obj\Debug\net8.0\Raika.Common.SharedKernel.csproj.AssemblyReference.cache
+C:\Project\Raika\HomeAlarm\Common\back-end\Raika.Common.SharedKernel\obj\Debug\net8.0\Raika.Common.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Raika\HomeAlarm\Common\back-end\Raika.Common.SharedKernel\obj\Debug\net8.0\Raika.Common.SharedKernel.AssemblyInfoInputs.cache
+C:\Project\Raika\HomeAlarm\Common\back-end\Raika.Common.SharedKernel\obj\Debug\net8.0\Raika.Common.SharedKernel.AssemblyInfo.cs
+C:\Project\Raika\HomeAlarm\Common\back-end\Raika.Common.SharedKernel\obj\Debug\net8.0\Raika.Common.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Project\Raika\HomeAlarm\Common\back-end\Raika.Common.SharedKernel\obj\Debug\net8.0\Raika.Common.SharedKernel.dll
+C:\Project\Raika\HomeAlarm\Common\back-end\Raika.Common.SharedKernel\obj\Debug\net8.0\refint\Raika.Common.SharedKernel.dll
+C:\Project\Raika\HomeAlarm\Common\back-end\Raika.Common.SharedKernel\obj\Debug\net8.0\Raika.Common.SharedKernel.pdb
+C:\Project\Raika\HomeAlarm\Common\back-end\Raika.Common.SharedKernel\obj\Debug\net8.0\ref\Raika.Common.SharedKernel.dll

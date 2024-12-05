@@ -1,0 +1,15 @@
+C:\Project\Raika\HomeAlarm\Core\Raika.HomeAlarmPanel.Domain\obj\Debug\net8.0\Raika.HomeAlarmPanel.Domain.csproj.AssemblyReference.cache
+C:\Project\Raika\HomeAlarm\Core\Raika.HomeAlarmPanel.Domain\obj\Debug\net8.0\Raika.HomeAlarmPanel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Raika\HomeAlarm\Core\Raika.HomeAlarmPanel.Domain\obj\Debug\net8.0\Raika.HomeAlarmPanel.Domain.AssemblyInfoInputs.cache
+C:\Project\Raika\HomeAlarm\Core\Raika.HomeAlarmPanel.Domain\obj\Debug\net8.0\Raika.HomeAlarmPanel.Domain.AssemblyInfo.cs
+C:\Project\Raika\HomeAlarm\Core\Raika.HomeAlarmPanel.Domain\obj\Debug\net8.0\Raika.HomeAlarmPanel.Domain.csproj.CoreCompileInputs.cache
+C:\Project\Raika\HomeAlarm\Core\Raika.HomeAlarmPanel.Domain\bin\Debug\net8.0\Raika.HomeAlarmPanel.Domain.deps.json
+C:\Project\Raika\HomeAlarm\Core\Raika.HomeAlarmPanel.Domain\bin\Debug\net8.0\Raika.HomeAlarmPanel.Domain.dll
+C:\Project\Raika\HomeAlarm\Core\Raika.HomeAlarmPanel.Domain\bin\Debug\net8.0\Raika.HomeAlarmPanel.Domain.pdb
+C:\Project\Raika\HomeAlarm\Core\Raika.HomeAlarmPanel.Domain\bin\Debug\net8.0\Raika.Common.SharedKernel.dll
+C:\Project\Raika\HomeAlarm\Core\Raika.HomeAlarmPanel.Domain\bin\Debug\net8.0\Raika.Common.SharedKernel.pdb
+C:\Project\Raika\HomeAlarm\Core\Raika.HomeAlarmPanel.Domain\obj\Debug\net8.0\Raika.Ho.85956979.Up2Date
+C:\Project\Raika\HomeAlarm\Core\Raika.HomeAlarmPanel.Domain\obj\Debug\net8.0\Raika.HomeAlarmPanel.Domain.dll
+C:\Project\Raika\HomeAlarm\Core\Raika.HomeAlarmPanel.Domain\obj\Debug\net8.0\refint\Raika.HomeAlarmPanel.Domain.dll
+C:\Project\Raika\HomeAlarm\Core\Raika.HomeAlarmPanel.Domain\obj\Debug\net8.0\Raika.HomeAlarmPanel.Domain.pdb
+C:\Project\Raika\HomeAlarm\Core\Raika.HomeAlarmPanel.Domain\obj\Debug\net8.0\ref\Raika.HomeAlarmPanel.Domain.dll
