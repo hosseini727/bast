@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Raika.HomeAlarmPanel.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e0127d412391ada72b447413869fef8a020cea4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64085f07bfdca0d1c9f3e3aaef1eb9eb12a750f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Raika.HomeAlarmPanel.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Raika.HomeAlarmPanel.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

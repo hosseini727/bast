@@ -21,6 +21,8 @@ namespace Raika.HomeAlarmPanel.Infrastructure
             // Commands
             //
             services.AddScoped<IAuditLogCommandRepository, AuditLogCommandRepository>();
+            services.AddScoped<IDeviceCommandRepository, DeviceCommandRepository>();
+            services.AddScoped<IDeviceHistoryCommandRepository, DeviceHistoryInvoiceCommandRepository>();
 
             //
             // Queries
